@@ -1,0 +1,13 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.exe.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.pdb
+E:\GitHub\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.exe.config
+E:\GitHub\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.exe
+E:\GitHub\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.pdb
